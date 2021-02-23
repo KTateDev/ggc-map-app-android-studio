@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GGC</string>
+
+    <string name="first_floor_activity_title">W Building</string>
+    <string name="second_floor_activity_title">W Building</string>
+    <string name="third_floor_activity_title">W Building</string>
+    <string name="campus_map_activity_title">W Building</string>
+    <string name="about_activity_title">About</string>
+</resources>
